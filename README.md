@@ -1,0 +1,1 @@
+Realised LSB steganography method
